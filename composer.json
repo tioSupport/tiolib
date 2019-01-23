@@ -1,0 +1,17 @@
+{
+    "name": "tioSupport/Tiolib",
+    "description": "PHP Tiolib",
+    "authors": [
+        {
+            "name": "Everyone",
+            "email": "support@tio.ch"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "tiolib": "lib/"
+        }
+    }
+}
