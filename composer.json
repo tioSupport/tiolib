@@ -1,12 +1,14 @@
 {
     "name": "tiosupport/tiolib",
     "description": "PHP Tiolib",
+    "type": "library",
     "authors": [
         {
             "name": "Everyone",
             "email": "support@tio.ch"
         }
     ],
+    "license": "proprietary",
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
