@@ -3,6 +3,7 @@
 /*CLASS MYSQL with PDO*/
 
 namespace tiolib;
+use \PDO;
 
 class mysqlPDO {
 
